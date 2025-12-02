@@ -4,7 +4,7 @@ Note: Only use **NEW:** for entirely new prompt files, NOT for new additions/sec
 
 ### Claude Code System Prompts Changelog
 
-# [2.0.55](https://github.com/Piebald-AI/claude-code-system-prompts/commit/20a222010a3c96dc37d9ae323cd40fae75251f9a)
+# [2.0.55](https://github.com/Piebald-AI/claude-code-system-prompts/commit/5c2f24217280a6c0a0b0ae5f80ba7f195e874ed0)
 
 _+121 tokens_
 
