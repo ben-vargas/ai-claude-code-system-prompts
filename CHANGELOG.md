@@ -4,6 +4,13 @@ Note: Only use **NEW:** for entirely new prompt files, NOT for new additions/sec
 
 ### Claude Code System Prompts Changelog
 
+# [2.0.75](https://github.com/Piebald-AI/claude-code-system-prompts/commit/d290cd4)
+
+_-183 tokens_
+
+- **REMOVED:** Agent Prompt: Task tool (extra notes) - additional notes for Task tool usage (absolute paths, no emojis, no colons before tool calls)
+- Main system prompt - removed instruction about not using colons before tool calls
+
 # [2.0.74](https://github.com/Piebald-AI/claude-code-system-prompts/commit/33fc177)
 
 _-1693 tokens_
